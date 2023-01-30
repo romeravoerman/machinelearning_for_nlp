@@ -1,5 +1,7 @@
 # Machine Learning for Natural Language Processing
 
+This work proceeds from a course on Machine Learning for Natural Language Processing. As parts of this code is re-usable it is stored here. 
+
 ./data contains three CONLL files (dev, train and test) to execute the evaluations on. 
 ./model contains the word embeddings model used.
 
